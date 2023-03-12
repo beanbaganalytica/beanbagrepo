@@ -2,11 +2,150 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nicks.openwizard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.program.openwizard-1.4.9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/.github/ISSUE_TEMPLATE/add-on-support-request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/.github/ISSUE_TEMPLATE/feature-request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/fanart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/advanced.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/backup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/clear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/common/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/common/directory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/common/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/common/router.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/common/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/debridit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/downloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/extract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/addon_menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/build_menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/main_menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/maintenance_menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/gui/window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/loginit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/qr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/restore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/save.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/skin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/speedtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/traktit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/whitelist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/wizard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/yt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/libs/zipfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/ContentPanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/IconTemplate.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/addoninstaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/apkinstaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/builds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/fonts/Bellota-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/fonts/Bellota-BoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/fonts/Bellota-Italic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/fonts/Bellota-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/fonts/Bellota-LightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/fonts/Bellota-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/keepdebrid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/keeplogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/keeptrakt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/maintenance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/qricon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/savedata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/media/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/Contact.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/FirstRunBuild.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/FirstRunSaveData.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/Notifications.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/SpeedTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/advanced_configurator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/build_update_prompt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/log_viewer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/loguploader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/1080i/text_box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/ContentPanel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/bgg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/dialogheader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/loguploader-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/loguploader-dialog-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/loguploader-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/spmc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Background/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/DialogCloseButton-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/DialogCloseButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/KeyboardKey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/KeyboardKeyNF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/button-focus_grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/button-focus_lightblue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-fo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-nofo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/scrollbar-V-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/scrollbar-V-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/scrollbar-V.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/testbuttonfo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Button/testbuttonnf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/RadioButton/MenuItemFO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/RadioButton/MenuItemNF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/RadioButton/radiobutton-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/RadioButton/radiobutton-nofocus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Slider/osd_slider_nib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Slider/osd_slider_nibNF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/Slider/slider1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/SpeedTest/bg_screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/SpeedTest/btn_start_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/ajax-loader-bar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/bg_screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/btn_start_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/btn_start_glow_active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/gauge_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/gauge_ic_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/ping_progress_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/ping_progress_glow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/recspeed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/scrollbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/speedtest_results_wtext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/skins/Default/media/testing_ping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/tempaddon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/advanced.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/apks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/builds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/data/advanced_settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/notify.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/themes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/resources/text/youtube.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/consts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/encoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/segno/writers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/startup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/nicks.openwizard/uservar.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/KODIBUILD-2.0.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/addon.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/fanart.jpg" beforeDir="false" />
@@ -16,12 +155,19 @@
       <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/addon.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/fanart.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.4.9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.0.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,12 +180,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ndeer\Documents\GitHub\ndeering5.github.io\repo" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="_repo_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ndeering5.github.io" />
