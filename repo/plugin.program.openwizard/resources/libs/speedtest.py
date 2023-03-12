@@ -145,7 +145,7 @@ def download_speed(files, quiet=False):
             thread.start()
             q.put(thread, True)
             if not quiet and not shutdown_event.isSet():
-                sys.stdout.write('')
+                sys.stdout.write('.')
                 sys.stdout.flush()
 
     finished = []
@@ -209,7 +209,7 @@ def upload_speed(url, sizes, quiet=False):
             thread.start()
             q.put(thread, True)
             if not quiet and not shutdown_event.isSet():
-                sys.stdout.write('')
+                sys.stdout.write('.')
                 sys.stdout.flush()
 
     finished = []
