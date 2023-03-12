@@ -1,3 +1,6 @@
 [submodule "repo/plugin.program.opendevtools"]
 	path = repo/plugin.program.opendevtools
 	url = https://github.com/drinfernoo/plugin.program.opendevtools
+[submodule "repo/plugin.program.openwizard"]
+	path = repo/plugin.program.openwizard
+	url = https://github.com/ndeering5/plugin.program.openwizard

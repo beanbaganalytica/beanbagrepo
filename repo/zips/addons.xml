@@ -98,7 +98,7 @@
  - Initial Release
 		</news>
 	</extension>
-</addon><addon id="plugin.program.openwizard" name="[COLOR cyan]Nick's[/COLOR]Wizard" version="1.0" provider-name="ndeering5">
+</addon><addon id="plugin.program.openwizard" name="[COLOR limegreen]Open[/COLOR]Wizard" version="1.4.9" provider-name="drinfernoo">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -115,7 +115,7 @@
     
     <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLOR limegreen]Open[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR cyan]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <description lang="en">[COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/drinfernoo/plugin.program.openwizard/</source>
