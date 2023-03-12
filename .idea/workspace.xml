@@ -1,153 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin.program.openwizard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/.github/ISSUE_TEMPLATE/add-on-support-request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/.github/ISSUE_TEMPLATE/feature-request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/addon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/default.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/fanart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/fanart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/advanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/clear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/common/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/common/directory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/common/logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/common/router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/common/tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/debridit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/downloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/addon_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/build_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/main_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/maintenance_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/gui/window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/install.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/loginit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/qr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/restore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/save.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/skin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/speedtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/traktit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/whitelist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/libs/zipfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/ContentPanel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/IconTemplate.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/addoninstaller.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/apkinstaller.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/builds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/fonts/Bellota-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/fonts/Bellota-BoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/fonts/Bellota-Italic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/fonts/Bellota-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/fonts/Bellota-LightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/fonts/Bellota-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/information.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/keepdebrid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/keeplogin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/keeptrakt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/maintenance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/qricon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/savedata.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/speed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/media/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/Contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/FirstRunBuild.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/FirstRunSaveData.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/Notifications.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/SpeedTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/advanced_configurator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/build_update_prompt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/log_viewer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/loguploader.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/1080i/text_box.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/ContentPanel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/bgg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/dialogheader.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/loguploader-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/loguploader-dialog-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/loguploader-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/spmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Background/white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/DialogCloseButton-focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/DialogCloseButton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/KeyboardKey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/KeyboardKeyNF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/button-focus_grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/button-focus_lightblue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-fo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-nofo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/scrollbar-V-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/scrollbar-V-focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/scrollbar-V.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/testbuttonfo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Button/testbuttonnf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/RadioButton/MenuItemFO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/RadioButton/MenuItemNF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/RadioButton/radiobutton-focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/RadioButton/radiobutton-nofocus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Slider/osd_slider_nib.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Slider/osd_slider_nibNF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/Slider/slider1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/SpeedTest/bg_screen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/SpeedTest/btn_start_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/ajax-loader-bar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/bg_screen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/btn_start_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/btn_start_glow_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/gauge_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/gauge_ic_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/ping_progress_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/ping_progress_glow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/recspeed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/scrollbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/speedtest_results_wtext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/skins/Default/media/testing_ping.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/tempaddon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/advanced.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/apks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/builds.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/data/advanced_settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/notify.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/themes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/resources/text/youtube.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/consts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/segno/writers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/startup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.openwizard/uservar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="r">
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.program.openwizard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.0.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="r" />
+    <option name="LAST_COMMIT_MESSAGE" value="r" />
   </component>
 </project>
