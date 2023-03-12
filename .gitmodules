@@ -2,6 +2,7 @@
 [submodule "plugin.program.openwizard"]
 	path = repo/plugin.program.openwizard
 	url = https://github.com/ndeering5/plugin.program.openwizard.git
-[submodule "repo/repository.opendevtools"]
-	path = repo/repository.opendevtools
-	url = https://github.com/drinfernoo/repository.opendevtools
+
+[submodule "repo/plugin.program.opendevtools"]
+	path = repo/plugin.program.opendevtools
+	url = https://github.com/drinfernoo/plugin.program.opendevtools
