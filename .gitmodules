@@ -1,4 +1,4 @@
 
 [submodule "plugin.program.openwizard"]
 	path = repo/plugin.program.openwizard
-	url = https://github.com/ndeering5/plugin.program.openwizard
+	url = https://github.com/ndeering5/plugin.program.openwizard.git
