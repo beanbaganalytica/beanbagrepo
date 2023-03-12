@@ -1,0 +1,3 @@
+[submodule "plugin.program.openwizard"]
+	path = plugin.program.openwizard
+	url = https://github.com/ndeering5/plugin.program.openwizard
