@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugin.program.openwizard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/plugin.program.desiwizard" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repo/plugin.program.opendevtools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repo/plugin.program.openwizard" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repo/repository.opendevtools" vcs="Git" />
