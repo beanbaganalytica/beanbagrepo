@@ -2,8 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="r">
+      <change afterPath="$PROJECT_DIR$/repo/plugin.program.kodibuildwizard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.desiwizard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools" beforeDir="false" afterPath="$PROJECT_DIR$/repo/plugin.program.opendevtools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/.github/workflows/dispatch_to_repo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/fanart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/fonts/DankMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/json/drinfernoo-plugin.program.opendevtools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.ar_sa/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.da_dk/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.de_de/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.el_gr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.en_gb/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.en_us/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.es_es/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.es_mx/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.fr_fr/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.it_it/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.nl_nl/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/language/resource.language.pt_br/strings.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/github_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/oauth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/qr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/raise_issue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/thread_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/lib/update_addon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/branch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/commit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/default-branch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/issue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/jpg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/json.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/log.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/md.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/merge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/protected-branch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/pull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/py.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/sh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/xml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/xor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/media/zip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.opendevtools/resources/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/plugin.program.openwizard" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.desiwizard/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.desiwizard/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.desiwizard/plugin.program.desiwizard-1.0.7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/fanart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.openwizard/plugin.program.openwizard-1.4.9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.kodibuilds/repository.kodibuilds-2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository.kodibuilds-2.0.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
