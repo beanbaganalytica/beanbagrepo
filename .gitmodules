@@ -4,3 +4,6 @@
 [submodule "repo/plugin.program.openwizard"]
 	path = repo/plugin.program.openwizard
 	url = https://github.com/ndeering5/plugin.program.openwizard
+[submodule "repo/plugin.program.desiwizard"]
+	path = repo/plugin.program.desiwizard
+	url = https://github.com/slrwin/plugin.program.desiwizard
