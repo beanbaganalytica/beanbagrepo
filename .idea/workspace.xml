@@ -3,9 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="r">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/KODIBUILD/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/KODIBUILD/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/KODIBUILD/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KODIBUILD-2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/KODIBUILD-2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/KODIBUILD/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml.md5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
