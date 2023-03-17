@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="r" />
+    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="r">
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/plugin.program.kodibuildwizard-1.0.7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.kodibuilds/repository.kodibuilds-2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository.kodibuilds-2.0.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/repo/plugin.program.kodibuildwizard" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
