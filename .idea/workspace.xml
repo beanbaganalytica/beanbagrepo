@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repository.beanbag/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repository.beanbag/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbag/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbag/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbag/repository.beanbag-2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/repository.beanbag/addon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/repository.beanbag/fanart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/repository.beanbag/icon.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbag/repository.beanbag-2.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbag/repository.beanbag-2.0.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ndeer\Documents\GitHub\ndeering5.github.io\repo" />
@@ -109,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679352159191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1679353631589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679353631589</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <created>1679353708335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679353708335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
