@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="Update" />
+    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/repository.beanbag/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repository.beanbag/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbag/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbag/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbag/repository.beanbag-2.0.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679351411808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1679352159191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679352159191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

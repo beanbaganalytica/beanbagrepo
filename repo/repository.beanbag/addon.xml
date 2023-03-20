@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.beanbag" name="Beanbag Repo" version="2.0" provider-name="beanbaganalytica">
-    <extension point="xbmc.addon.repository" name="Beanbag Repo">
+    <extension point="xbmc.addon.repository" name="beanbagrepo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/beanbaganalytica/repository.beanbag/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/beanbaganalytica/repository.beanbag/master/repo/zips/addons.xml.md5</checksum>
@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>repository.beanbag</summary>
+        <summary>beanbagrepo</summary>
         <description>Repository for Kodi Builds</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
