@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/fanart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/plugin.program.kodibuildwizard-1.0.7.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/repository.beanbagrepo-2.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository.beanbagrepo-2.0.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
