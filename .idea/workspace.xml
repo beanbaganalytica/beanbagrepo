@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="r">
-      <change afterPath="$PROJECT_DIR$/repo/plugin.program.kodibuildwizard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/repository.beanbag/addon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/repository.beanbag/fanart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repo/repository.beanbag/icon.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repository.kodibuilds/addon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repository.kodibuilds/fanart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repository.kodibuilds/icon.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository.beanbag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository.kodibuilds-2.0.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678608533197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1679351411808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679351411808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="r" />
-    <option name="LAST_COMMIT_MESSAGE" value="r" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
