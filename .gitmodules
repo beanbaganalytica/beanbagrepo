@@ -1,4 +1,3 @@
-
-[submodule "repository.beanbag"]
-	path = repository.beanbag
-	url = https://github.com/beanbaganalytica/repository.beanbag.git
+[submodule "repo/plugin.program.kodibuildwizard"]
+	path = repo/plugin.program.kodibuildwizard
+	url = https://github.com/beanbaganalytica/plugin.program.kodibuildwizard
