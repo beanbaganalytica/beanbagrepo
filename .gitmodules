@@ -1,1 +1,4 @@
 
+[submodule "repository.beanbag"]
+	path = repository.beanbag
+	url = https://github.com/beanbaganalytica/repository.beanbag.git
