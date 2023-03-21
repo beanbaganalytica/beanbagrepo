@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment=".jpg edit">
+      <change afterPath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/icon.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repository.beanbagrepo/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repository.beanbagrepo/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/plugin.program.kodibuildwizard-1.0.7.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/plugin.program.kodibuildwizard-1.0.7.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/addon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/repository.beanbagrepo-2.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/repository.beanbagrepo-2.0.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository.beanbagrepo-2.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repository.beanbagrepo-2.0.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.program.kodibuildwizard" name="[COLOR cyan]kodibuild[/COLOR]Wizard" version="1.0.7" provider-name="ndeering5">
+<addons><addon id="plugin.program.kodibuildwizard" name="[COLOR cyan]kodibuild[/COLOR]Wizard" version="1.0.7" provider-name="beanbaganalytica">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -19,7 +19,7 @@
         <description lang="en">[COLOR cyan]kodibuild[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://github.com/ndeering5/plugin.program.kodibuildwizard</source>
+        <source>https://github.com/beanbaganalytica/plugin.program.kodibuildwizard</source>
         <news>
 1.0.0
  - Initial Commit
@@ -43,7 +43,7 @@
         <disclaimer />
         <platform>all</platform>
         <assets>
-            <icon>icon.png</icon>
+            <icon>icon.jpg</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
