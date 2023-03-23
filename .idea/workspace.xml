@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment=".jpg edit">
-      <change afterPath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/icon.jpg" afterDir="false" />
+    <list default="true" id="c4cb54ce-6433-4b59-bf80-280f58ce63e5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/addon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/plugin.program.kodibuildwizard-1.0.7.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.program.kodibuildwizard/plugin.program.kodibuildwizard-1.0.7.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/repository.beanbagrepo-2.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.beanbagrepo/repository.beanbagrepo-2.0.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository.beanbagrepo-2.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repository.beanbagrepo-2.0.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ndeer/Documents/GitHub/plugin.program.kodibuildwizard",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ndeer\Documents\GitHub\ndeering5.github.io\repo" />
