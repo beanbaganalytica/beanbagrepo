@@ -8,7 +8,7 @@ You will need to create accounts on the following websites:
 - [RealDebrid](http://real-debrid.com/?id=7423788) (Premium; Roughly $20 for six months)
 - [VPN](https://ref.nordvpn.com/HjrvXiZBJfX) (Optional, but highly recommended. You can search up the VPN app in the app store of whatever system you are using and set it to auto-connect.)
 
-<details id=0 open>
+<details>
 <summary><h4>1a. Installing Kodi on Windows/Mac/Nvidia Shield/Android Devices</h4></summary>
 
 1. **Windows**: Download Kodi within the Microsoft Store or by clicking [here](https://www.microsoft.com/store/productId/9NBLGGH4T892).
@@ -18,7 +18,7 @@ You will need to create accounts on the following websites:
 
 </details>
 
-<details id=0 open>
+<details>
 <summary><h4>1b. Installing Kodi on Firestick (I recommend a Nvidia Shield as the build will run faster, but Firestick still works)</h4></summary>
 
 1. Follow the guide located [here](https://smarttubenext.com/firestick/) through Step 12. 
@@ -27,7 +27,7 @@ You will need to create accounts on the following websites:
 3. Click on the **ARMV7A(32BIT)** download option.
 4. A prompt will ask you if you want to install the application. Click **Install**.
 </details>
-<details id=0 open>
+<details>
 <summary><h4>2. Installing and the Beanbag Repo and kodibuildWizard</h4></summary>
 
 1. Enable Unknown Sources:
@@ -79,7 +79,7 @@ You will need to create accounts on the following websites:
 You now have everything you need to use the build! Go back to the main menu and play what ever you want. Use the Trakt.tv app to modify your watch history and add TV shows to your collection!
 </details>
 
-<details id=0 open>
+<details>
 <summary><h4>3.Build Updates </h4></summary>
 
 When I upload new builds you will receive a notification to update. Hit **Yes, Install** and be patient similar to the other steps. Background processes will run to install it. Your authentications will be saved, but you will be spammed to authenticate Trakt again after updating. Hit **No** to the prompts and install the build specific add-ons. Then close Kodi and reopen, you will be logged in to your accounts again.
