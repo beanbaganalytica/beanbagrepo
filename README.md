@@ -88,13 +88,4 @@ When I upload new builds you will receive a notification to update. Hit **Yes, I
 <details>
 <summary><h4>4.Streaming to Discord on Windows </h4></summary>
 
-1. Download VLC Media Player [here](https://www.videolan.org/vlc/)
-2. Once VLC is open, navigate to the **Tools** drop down in the banner of the app, select **Preferences**
-3. Click on **Video** in the top bar of the preferences, and change **Output** to **"OpenGL video output for Windows"** and hit **Save**
-4. Download this [playercorefactory.xml](https://www.dropbox.com/s/1mxbvibqwbq1jrt/playercorefactory.xml?dl=1)
-5. Place the playercorefactory.xml file in this path on your computer C:\Users\ **YOUR USERNAME** \AppData\Roaming\Kodi\userdata 
-6. Anything you open up in Kodi will now Open in a VLC Media Player window which you can stream to Discord
-7. CHANGE THE SCREENSAVER: We need to change the screen saver as it will now always open in VLC media player. In Kodi, go to the top right gear menu and select **Settings**
-8. In the first menu that pops up you will see Screensaver, scroll to it and change the **Screensaver Mode** to either **Dim** or **Black**. It is your preference
-
-**STOP PLAYING IN VLC MEDIA PLAYER:** If you want to stop Kodi from playing in VLC Media Player, just remove the playercorefactory.xml file from C:\Users\ **YOUR USERNAME** \AppData\Roaming\Kodi\userdata on your computer
+ Follow this and add Kodi: https://www.alphr.com/how-to-add-games-to-discord-library/
