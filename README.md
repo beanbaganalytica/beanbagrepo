@@ -88,4 +88,8 @@ When I upload new builds you will receive a notification to update. Hit **Yes, I
 <details>
 <summary><h4>4.Streaming to Discord on Windows </h4></summary>
 
- Follow this and add Kodi: https://www.alphr.com/how-to-add-games-to-discord-library/
+As long as Kodi is downloaded from the Microsoft Store you may add it by doing the following:
+   
+"Note: If the game does not appear, try manually adding your game by going to **User Settings > Game Activity > Add it!**
+
+Unfortunately, if your game is not recognized by Game Detection, or through the process of manually adding it, then you will not be able to stream the game."
