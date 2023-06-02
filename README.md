@@ -93,3 +93,5 @@ As long as Kodi is downloaded from the Microsoft Store you may add it by doing t
 "Note: If the game does not appear, try manually adding your game by going to **User Settings > Game Activity > Add it!**
 
 Unfortunately, if your game is not recognized by Game Detection, or through the process of manually adding it, then you will not be able to stream the game."
+   
+[Discord Documentation]([https://ref.nordvpn.com/HjrvXiZBJfX](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share#h_01EZZRFWPEJCBNGFKFJC8951H8))
