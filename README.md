@@ -6,7 +6,7 @@ You will need to create accounts on the following websites:
 
 - [Trakt.tv](https://trakt.tv/)
 - [RealDebrid](http://real-debrid.com/?id=7423788) (Premium; Roughly $20 for six months)
-- [VPN](https://ref.nordvpn.com/HjrvXiZBJfX) (Optional, but highly recommended. You can search up the VPN app in the app store of whatever system you are using and set it to auto-connect.)
+- [VPN](https://ref.nordvpn.com/HjrvXiZBJfX) (Optional. You can search up the VPN app in the app store of whatever system you are using and set it to auto-connect.)
 
 <details>
 <summary><h4>1a. Installing Kodi on Windows/Mac/Nvidia Shield/Android Devices</h4></summary>
